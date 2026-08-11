@@ -1,0 +1,11 @@
+name = str("Damian")
+age = int(19)
+weight = float(242.5)
+mode1 = True
+mode2 = False
+
+print(name)
+print(age)
+print(weight)
+print(mode1)
+print(mode2)
