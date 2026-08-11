@@ -1,0 +1,17 @@
+class Comparator:
+    def compare(self):
+        num1= int(input("enter a number: "))
+        num2= int(input("enter a number as well: "))
+
+        
+    if num1 > num2:
+        print("your first number is higher than the second number")
+    elif num2 > num1:
+        print("your second number is higher than the first number")
+    else:
+        print("both of your numbers are equal")
+
+
+
+com.Comparator()
+com.compare
