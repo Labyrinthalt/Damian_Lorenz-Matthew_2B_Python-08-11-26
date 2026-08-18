@@ -1,0 +1,18 @@
+import math
+
+print("---Task 3: Rounding Showdown---")
+value = -7.8
+
+#Todo 1
+print(f"ceil -> {math.ceil(value)}")
+#Todo 2
+print(f"floor -> {math.floor(value)}")
+#Todo 3
+print(f"trunc -> {math.trunc(value)}")
+
+print()
+
+#Todo 4
+#my answer:
+#"math.floor()" always rounds down, 
+#but "math.trunc()" always rounds toward zero by cutting off the decimals
